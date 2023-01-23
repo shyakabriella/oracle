@@ -45,8 +45,13 @@
         <div>
           <div class="custom-select location">
             <select class="location select-box select-box-light select-box-bottom">
-              
+              <option value="#">Côte d'Ivoire</option>
+              <option value="#">Togo</option>
+              <option value="#">Gabon</option>
+              <option value="#">Congo</option>
+              <option value="#">Burkina Faso</option>
               <option value="#">RDC</option>
+              <option value="#">Rwanda</option>
            
             </select>
           </div>
@@ -750,11 +755,6 @@
               <div id="block-3" class="fade-block"></div>
             </div>
           </section>
-
-          
-
-
-
 
           <!-- CTA Gravity view -->
           <section id="scene-cta">
